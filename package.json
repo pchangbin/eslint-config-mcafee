@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-mcafee",
+  "version": "1.0.0",
+  "description": "Shareable Configs for McAfee JavaScript Secure Coding Recommentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchangbin/eslint-config-mcafee.git"
+  },
+  "keywords": [],
+  "author": "Changbin Park <pchangbin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pchangbin/eslint-config-mcafee/issues"
+  },
+  "homepage": "https://github.com/pchangbin/eslint-config-mcafee#readme"
+}
