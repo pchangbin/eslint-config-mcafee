@@ -10,7 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/pchangbin/eslint-config-mcafee.git"
   },
-  "keywords": [],
+  "keywords": [
+    "mcafee",
+    "javascript",
+    "secure",
+    "coding",
+    "recommendation",
+    "scheme",
+    "standard"
+  ],
   "author": "Changbin Park <pchangbin@gmail.com>",
   "license": "MIT",
   "bugs": {
