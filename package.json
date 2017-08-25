@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/pchangbin/eslint-config-mcafee/issues"
   },
-  "homepage": "https://github.com/pchangbin/eslint-config-mcafee#readme"
+  "homepage": "https://github.com/pchangbin/eslint-config-mcafee#readme",
+  "peerDepencendies": {
+    "eslint": ">=3"
+  }
 }
