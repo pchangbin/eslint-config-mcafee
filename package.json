@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mcafee",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Shareable Configs for McAfee JavaScript Secure Coding Recommentations",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,10 @@
     "coding",
     "recommendation",
     "scheme",
-    "standard"
+    "standard",
+    "lint",
+    "inter",
+    "eslint"
   ],
   "author": "Changbin Park <pchangbin@gmail.com>",
   "license": "MIT",
